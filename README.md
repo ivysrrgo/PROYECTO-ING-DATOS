@@ -1,6 +1,6 @@
 # PROYENCTO INGENIERIA DE DATOS
 
-Mariana Alvarez
+Mariana Álvarez
 
 Daniel Moreno
 
