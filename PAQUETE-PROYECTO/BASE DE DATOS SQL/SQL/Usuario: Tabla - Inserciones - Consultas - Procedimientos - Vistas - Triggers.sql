@@ -94,3 +94,35 @@ delete from Usuario where docUsuario = 981234585;
 #Subconsultas
 select nombreCliente, apellidoCliente from Cliente
 where docCliente in (select docClienteFK from Venta where estadoVenta = false);
+
+#Procedimientos
+DELIMITER //
+create procedure insertarUsuario(in docUs int, in nomUs varchar(30), in apellidoUs varchar(20), 
+in correoUs varchar(50), in estadoUs bool, in telUs int unsigned,in dirUs varchar(100), in tipUs enum('Administrador','Empleado'),
+in nicknom varchar(30))
+Begin
+	insert into Usuario values (docUs,nomUs,apellidoUs,correoUs,
+    estadoUs,telUs,dirUs,tipUs,nicknom);
+end// 
+DELIMITER ;
+
+call insertarUsuario(20147890, 'Marta Beatriz', 'Martínez Romero', 'marta.martinez@gmail.com',
+true, 3234567890, 'Carrera 8 #56-78, Bogotá', 'Empleado', 'martabeatriz');
+
+DELIMITER //
+create procedure inactivarUsuario(in docUs int)
+Begin
+	Update Usuario set estadoUsuario = false where docUsuario = docUs;
+end//
+DELIMITER ;
+
+call inactivarUsuario(20147890);
+
+DELIMITER //
+create procedure actualizarDireccion(in docUs int, in dirUs varchar(100))
+Begin
+	Update Usuario set direccionUsuario = dirUs where docUsuario = docUs;
+end//
+DELIMITER ;
+
+call actualizarDireccion(20147890,'Calle 11 #34-12, Bogotá');
