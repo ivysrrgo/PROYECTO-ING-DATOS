@@ -126,3 +126,14 @@ end//
 DELIMITER ;
 
 call actualizarDireccion(20147890,'Calle 11 #34-12, Bogotá');
+
+#Vistas
+create view vistaAdministradores as 
+select docUsuario, nombreUsuario, apellidoUsuario, nickname
+from Usuario where tipoUsuario = 'Administrador';
+
+create view vistaEmpleadosActivos as select docUsuario, nombreUsuario, 
+apellidoUsuario, correoUsuario, telefonoUsuario, nickname
+from Usuario where estadoUsuario = true and tipoUsuario = 'Empleado';
+
+select * from vistaEmpleadosActivos;
