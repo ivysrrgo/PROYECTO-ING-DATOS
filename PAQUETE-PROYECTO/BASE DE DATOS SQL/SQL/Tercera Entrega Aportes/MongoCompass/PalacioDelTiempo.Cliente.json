@@ -1,0 +1,765 @@
+[{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e6097696"
+  },
+  "docCliente": 1023456781,
+  "nombreCliente": "Luis",
+  "apellidoCliente": "Martinez",
+  "correoCliente": "luismartinez@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3102345678"
+  },
+  "direccionCliente": "Calle 12 #34-56",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e6097697"
+  },
+  "docCliente": 1023456782,
+  "nombreCliente": "Ana",
+  "apellidoCliente": "Rodriguez",
+  "correoCliente": "anarodriguez@yahoo.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3208765432"
+  },
+  "direccionCliente": "Carrera 45 #23-19",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e6097698"
+  },
+  "docCliente": 1023456783,
+  "nombreCliente": "Carlos",
+  "apellidoCliente": "Gomez",
+  "correoCliente": "carlosgomez@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3011234567"
+  },
+  "direccionCliente": "Diagonal 20 #18-90",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e6097699"
+  },
+  "docCliente": 1023456784,
+  "nombreCliente": "Lucia",
+  "apellidoCliente": "Perez",
+  "correoCliente": "luciaperez@hotmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3022345678"
+  },
+  "direccionCliente": "Transversal 10 #33-22",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e609769a"
+  },
+  "docCliente": 1023456785,
+  "nombreCliente": "Jorge",
+  "apellidoCliente": "Ramirez",
+  "correoCliente": "jorgeramirez@outlook.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3109988776"
+  },
+  "direccionCliente": "Avenida 1 #24-33",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e609769b"
+  },
+  "docCliente": 1023456786,
+  "nombreCliente": "Camila",
+  "apellidoCliente": "Ruiz",
+  "correoCliente": "camilaruiz@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3152233445"
+  },
+  "direccionCliente": "Calle 9 #76-34",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e609769c"
+  },
+  "docCliente": 1023456787,
+  "nombreCliente": "Felipe",
+  "apellidoCliente": "Mora",
+  "correoCliente": "felipemora@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3205556677"
+  },
+  "direccionCliente": "Carrera 100 #45-67",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e609769d"
+  },
+  "docCliente": 1023456788,
+  "nombreCliente": "Diana",
+  "apellidoCliente": "Lopez",
+  "correoCliente": "dianalopez@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3123344556"
+  },
+  "direccionCliente": "Calle 32 #55-21",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e609769e"
+  },
+  "docCliente": 1023456789,
+  "nombreCliente": "Mario",
+  "apellidoCliente": "Diaz",
+  "correoCliente": "mariodiaz@outlook.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3112233445"
+  },
+  "direccionCliente": "Carrera 66 #34-11",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e609769f"
+  },
+  "docCliente": 1023456790,
+  "nombreCliente": "Paula",
+  "apellidoCliente": "Nieto",
+  "correoCliente": "paulanieto@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3167788990"
+  },
+  "direccionCliente": "Calle 25 #10-44",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a0"
+  },
+  "docCliente": 1023456791,
+  "nombreCliente": "Juan",
+  "apellidoCliente": "Vargas",
+  "correoCliente": "juanvargas@hotmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3144455667"
+  },
+  "direccionCliente": "Diagonal 99 #88-12",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a1"
+  },
+  "docCliente": 1023456792,
+  "nombreCliente": "Valeria",
+  "apellidoCliente": "Castro",
+  "correoCliente": "valeriacastro@yahoo.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3101122334"
+  },
+  "direccionCliente": "Calle 15 #17-19",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a2"
+  },
+  "docCliente": 1023456793,
+  "nombreCliente": "Andres",
+  "apellidoCliente": "Soto",
+  "correoCliente": "andressoto@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3135566778"
+  },
+  "direccionCliente": "Carrera 22 #34-55",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a3"
+  },
+  "docCliente": 1023456794,
+  "nombreCliente": "Isabela",
+  "apellidoCliente": "Medina",
+  "correoCliente": "isabelamedina@hotmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3056677889"
+  },
+  "direccionCliente": "Calle 78 #12-88",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a4"
+  },
+  "docCliente": 1023456795,
+  "nombreCliente": "Oscar",
+  "apellidoCliente": "Torres",
+  "correoCliente": "oscartorres@yahoo.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3004455667"
+  },
+  "direccionCliente": "Carrera 7 #89-76",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a5"
+  },
+  "docCliente": 1023456796,
+  "nombreCliente": "Laura",
+  "apellidoCliente": "Reyes",
+  "correoCliente": "laurareyes@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3173344556"
+  },
+  "direccionCliente": "Transversal 15 #23-45",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a6"
+  },
+  "docCliente": 1023456797,
+  "nombreCliente": "Diego",
+  "apellidoCliente": "Cano",
+  "correoCliente": "diegocano@hotmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3122233441"
+  },
+  "direccionCliente": "Calle 60 #45-32",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a7"
+  },
+  "docCliente": 1023456798,
+  "nombreCliente": "Natalia",
+  "apellidoCliente": "Guerrero",
+  "correoCliente": "nataliaguerrero@gmail.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3189988776"
+  },
+  "direccionCliente": "Carrera 12 #34-56",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a8"
+  },
+  "docCliente": 1023456799,
+  "nombreCliente": "Sebastian",
+  "apellidoCliente": "Ortega",
+  "correoCliente": "sebastianortega@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3195566778"
+  },
+  "direccionCliente": "Avenida 5 #10-11",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976a9"
+  },
+  "docCliente": 1023456800,
+  "nombreCliente": "Monica",
+  "apellidoCliente": "Silva",
+  "correoCliente": "monicasilva@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3163344556"
+  },
+  "direccionCliente": "Calle 3 #45-67",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976aa"
+  },
+  "docCliente": 1023456801,
+  "nombreCliente": "Ricardo",
+  "apellidoCliente": "Herrera",
+  "correoCliente": "ricardoherrera@hotmail.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3031234567"
+  },
+  "direccionCliente": "Carrera 40 #23-45",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976ab"
+  },
+  "docCliente": 1023456802,
+  "nombreCliente": "Juliana",
+  "apellidoCliente": "Mejia",
+  "correoCliente": "julianamejia@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3054455667"
+  },
+  "direccionCliente": "Calle 18 #56-78",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976ac"
+  },
+  "docCliente": 1023456803,
+  "nombreCliente": "Esteban",
+  "apellidoCliente": "Navarro",
+  "correoCliente": "estebannavarro@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3077788990"
+  },
+  "direccionCliente": "Diagonal 13 #99-12",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976ad"
+  },
+  "docCliente": 1023456804,
+  "nombreCliente": "Melany",
+  "apellidoCliente": "Castaño",
+  "correoCliente": "melanycastano@hotmail.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3016677889"
+  },
+  "direccionCliente": "Carrera 90 #12-34",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976ae"
+  },
+  "docCliente": 1023456805,
+  "nombreCliente": "Tomás",
+  "apellidoCliente": "Arango",
+  "correoCliente": "tomasarango@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3129988776"
+  },
+  "direccionCliente": "Transversal 1 #22-33",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976af"
+  },
+  "docCliente": 1023456806,
+  "nombreCliente": "Mariana",
+  "apellidoCliente": "Espinosa",
+  "correoCliente": "marianaespinosa@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3092233445"
+  },
+  "direccionCliente": "Avenida 3 #44-55",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b0"
+  },
+  "docCliente": 1023456807,
+  "nombreCliente": "Hugo",
+  "apellidoCliente": "Valencia",
+  "correoCliente": "hugovalencia@outlook.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3137788990"
+  },
+  "direccionCliente": "Calle 47 #23-98",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b1"
+  },
+  "docCliente": 1023456808,
+  "nombreCliente": "Viviana",
+  "apellidoCliente": "Quintero",
+  "correoCliente": "vivianaquintero@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3084455667"
+  },
+  "direccionCliente": "Carrera 19 #34-77",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b2"
+  },
+  "docCliente": 1023456809,
+  "nombreCliente": "Samuel",
+  "apellidoCliente": "Montoya",
+  "correoCliente": "samuelmontoya@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3116677889"
+  },
+  "direccionCliente": "Calle 80 #12-90",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b3"
+  },
+  "docCliente": 1023456810,
+  "nombreCliente": "Daniela",
+  "apellidoCliente": "Cortes",
+  "correoCliente": "danielacortes@hotmail.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3183344556"
+  },
+  "direccionCliente": "Carrera 15 #55-66",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b4"
+  },
+  "docCliente": 1023456811,
+  "nombreCliente": "Gabriel",
+  "apellidoCliente": "Acosta",
+  "correoCliente": "gabrielacosta@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3205566778"
+  },
+  "direccionCliente": "Calle 22 #34-12",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b5"
+  },
+  "docCliente": 1023456812,
+  "nombreCliente": "Nicole",
+  "apellidoCliente": "Salazar",
+  "correoCliente": "nicolesalazar@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3156677889"
+  },
+  "direccionCliente": "Carrera 27 #10-98",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b6"
+  },
+  "docCliente": 1023456813,
+  "nombreCliente": "Eduardo",
+  "apellidoCliente": "Moreno",
+  "correoCliente": "eduardomoreno@gmail.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3091122334"
+  },
+  "direccionCliente": "Diagonal 70 #88-12",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b7"
+  },
+  "docCliente": 1023456814,
+  "nombreCliente": "Angela",
+  "apellidoCliente": "Paredes",
+  "correoCliente": "angelaparedes@hotmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3123344555"
+  },
+  "direccionCliente": "Calle 5 #17-89",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b8"
+  },
+  "docCliente": 1023456815,
+  "nombreCliente": "Javier",
+  "apellidoCliente": "Guerra",
+  "correoCliente": "javierguerra@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3149988776"
+  },
+  "direccionCliente": "Carrera 50 #34-56",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976b9"
+  },
+  "docCliente": 1023456816,
+  "nombreCliente": "Renata",
+  "apellidoCliente": "Zapata",
+  "correoCliente": "renatazapata@gmail.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3065566778"
+  },
+  "direccionCliente": "Transversal 9 #12-34",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976ba"
+  },
+  "docCliente": 1023456817,
+  "nombreCliente": "Mateo",
+  "apellidoCliente": "Luna",
+  "correoCliente": "mateoluna@hotmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3176677889"
+  },
+  "direccionCliente": "Avenida 8 #90-22",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976bb"
+  },
+  "docCliente": 1023456818,
+  "nombreCliente": "Carolina",
+  "apellidoCliente": "Lemos",
+  "correoCliente": "carolinalemos@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3087788990"
+  },
+  "direccionCliente": "Carrera 11 #45-88",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976bc"
+  },
+  "docCliente": 1023456819,
+  "nombreCliente": "Alejandro",
+  "apellidoCliente": "Cabrera",
+  "correoCliente": "alejandrocabrera@yahoo.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3104455667"
+  },
+  "direccionCliente": "Calle 33 #76-22",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976bd"
+  },
+  "docCliente": 1023456820,
+  "nombreCliente": "Luisa",
+  "apellidoCliente": "Villalba",
+  "correoCliente": "luisavillalba@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3113344556"
+  },
+  "direccionCliente": "Carrera 60 #23-41",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976be"
+  },
+  "docCliente": 1023456821,
+  "nombreCliente": "Brayan",
+  "apellidoCliente": "Campos",
+  "correoCliente": "brayancampos@hotmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3071122334"
+  },
+  "direccionCliente": "Avenida Sur #13-34",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976bf"
+  },
+  "docCliente": 1023456822,
+  "nombreCliente": "Tatiana",
+  "apellidoCliente": "Escobar",
+  "correoCliente": "tatianaescobar@gmail.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3127788990"
+  },
+  "direccionCliente": "Calle 89 #55-11",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976c0"
+  },
+  "docCliente": 1023456823,
+  "nombreCliente": "Kevin",
+  "apellidoCliente": "Bermudez",
+  "correoCliente": "kevinbermudez@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3096677889"
+  },
+  "direccionCliente": "Carrera 5 #23-33",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976c1"
+  },
+  "docCliente": 1023456824,
+  "nombreCliente": "Sara",
+  "apellidoCliente": "Leon",
+  "correoCliente": "saraleon@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3055566778"
+  },
+  "direccionCliente": "Transversal 4 #21-43",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976c2"
+  },
+  "docCliente": 1023456825,
+  "nombreCliente": "Manuel",
+  "apellidoCliente": "Peña",
+  "correoCliente": "manuelpena@hotmail.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3023344556"
+  },
+  "direccionCliente": "Calle 13 #77-88",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976c3"
+  },
+  "docCliente": 1023456826,
+  "nombreCliente": "Adriana",
+  "apellidoCliente": "Rojas",
+  "correoCliente": "adrianarojas@gmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3182233445"
+  },
+  "direccionCliente": "Carrera 39 #45-90",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976c4"
+  },
+  "docCliente": 1023456827,
+  "nombreCliente": "Camilo",
+  "apellidoCliente": "Velasquez",
+  "correoCliente": "camilovelasquez@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3049988776"
+  },
+  "direccionCliente": "Diagonal 17 #34-66",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976c5"
+  },
+  "docCliente": 1023456828,
+  "nombreCliente": "Daniel",
+  "apellidoCliente": "Barrera",
+  "correoCliente": "danielbarrera@gmail.com",
+  "estadoCliente": false,
+  "telefonoCliente": {
+    "$numberLong": "3036677889"
+  },
+  "direccionCliente": "Calle 99 #12-45",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976c6"
+  },
+  "docCliente": 1023456829,
+  "nombreCliente": "María",
+  "apellidoCliente": "Gil",
+  "correoCliente": "mariagil@hotmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3153344556"
+  },
+  "direccionCliente": "Carrera 18 #56-12",
+  "tipoCliente": "Natural"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976c7"
+  },
+  "docCliente": 1023456830,
+  "nombreCliente": "Santiago",
+  "apellidoCliente": "Lara",
+  "correoCliente": "santiagolara@yahoo.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3015566778"
+  },
+  "direccionCliente": "Avenida 10 #44-77",
+  "tipoCliente": "Juridico"
+},
+{
+  "_id": {
+    "$oid": "682bd9f282d45eb1e60976c8"
+  },
+  "docCliente": 1114488229,
+  "nombreCliente": "Sara",
+  "apellidoCliente": "Cifuentes",
+  "correoCliente": "saracifuentes@hotmail.com",
+  "estadoCliente": true,
+  "telefonoCliente": {
+    "$numberLong": "3005643894"
+  },
+  "direccionCliente": "Avenida Jimenez #45-23a",
+  "tipoCliente": "Natural"
+}]

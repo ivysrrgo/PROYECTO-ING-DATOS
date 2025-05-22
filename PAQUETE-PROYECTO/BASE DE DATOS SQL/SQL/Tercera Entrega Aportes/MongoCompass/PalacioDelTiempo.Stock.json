@@ -1,0 +1,649 @@
+[{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097707"
+  },
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976cb"
+  },
+  "cantidadDisponible": 10,
+  "estadoStock": 1,
+  "codigoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097708"
+  },
+  "codigoStock": 2,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d6"
+  },
+  "cantidadDisponible": 7,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097709"
+  },
+  "codigoStock": 3,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e1"
+  },
+  "cantidadDisponible": 12,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609770a"
+  },
+  "codigoStock": 4,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976ec"
+  },
+  "cantidadDisponible": 5,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609770b"
+  },
+  "codigoStock": 5,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f7"
+  },
+  "cantidadDisponible": 3,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609770c"
+  },
+  "codigoStock": 6,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e6097702"
+  },
+  "cantidadDisponible": 15,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609770d"
+  },
+  "codigoStock": 7,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e6097703"
+  },
+  "cantidadDisponible": 20,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609770e"
+  },
+  "codigoStock": 8,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e6097704"
+  },
+  "cantidadDisponible": 18,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609770f"
+  },
+  "codigoStock": 9,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e6097705"
+  },
+  "cantidadDisponible": 4,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097710"
+  },
+  "codigoStock": 10,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976cc"
+  },
+  "cantidadDisponible": 6,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097711"
+  },
+  "codigoStock": 11,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976cd"
+  },
+  "cantidadDisponible": 7,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097712"
+  },
+  "codigoStock": 12,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976ce"
+  },
+  "cantidadDisponible": 11,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097713"
+  },
+  "codigoStock": 13,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976cf"
+  },
+  "cantidadDisponible": 9,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097714"
+  },
+  "codigoStock": 14,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d0"
+  },
+  "cantidadDisponible": 8,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097715"
+  },
+  "codigoStock": 15,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d1"
+  },
+  "cantidadDisponible": 10,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097716"
+  },
+  "codigoStock": 16,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d2"
+  },
+  "cantidadDisponible": 5,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097717"
+  },
+  "codigoStock": 17,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d3"
+  },
+  "cantidadDisponible": 6,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097718"
+  },
+  "codigoStock": 18,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d4"
+  },
+  "cantidadDisponible": 7,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097719"
+  },
+  "codigoStock": 19,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d5"
+  },
+  "cantidadDisponible": 4,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609771a"
+  },
+  "codigoStock": 20,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d7"
+  },
+  "cantidadDisponible": 12,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609771b"
+  },
+  "codigoStock": 21,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d8"
+  },
+  "cantidadDisponible": 13,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609771c"
+  },
+  "codigoStock": 22,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976d9"
+  },
+  "cantidadDisponible": 14,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609771d"
+  },
+  "codigoStock": 23,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976da"
+  },
+  "cantidadDisponible": 9,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609771e"
+  },
+  "codigoStock": 24,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976db"
+  },
+  "cantidadDisponible": 17,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609771f"
+  },
+  "codigoStock": 25,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976dc"
+  },
+  "cantidadDisponible": 3,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097720"
+  },
+  "codigoStock": 26,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976dd"
+  },
+  "cantidadDisponible": 16,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097721"
+  },
+  "codigoStock": 27,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976de"
+  },
+  "cantidadDisponible": 7,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097722"
+  },
+  "codigoStock": 28,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976df"
+  },
+  "cantidadDisponible": 2,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097723"
+  },
+  "codigoStock": 29,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e0"
+  },
+  "cantidadDisponible": 6,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097724"
+  },
+  "codigoStock": 30,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e2"
+  },
+  "cantidadDisponible": 2,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097725"
+  },
+  "codigoStock": 31,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e3"
+  },
+  "cantidadDisponible": 4,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097726"
+  },
+  "codigoStock": 32,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e4"
+  },
+  "cantidadDisponible": 5,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097727"
+  },
+  "codigoStock": 33,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e5"
+  },
+  "cantidadDisponible": 9,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097728"
+  },
+  "codigoStock": 34,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e6"
+  },
+  "cantidadDisponible": 11,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097729"
+  },
+  "codigoStock": 35,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e7"
+  },
+  "cantidadDisponible": 10,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609772a"
+  },
+  "codigoStock": 36,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e8"
+  },
+  "cantidadDisponible": 3,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609772b"
+  },
+  "codigoStock": 37,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976e9"
+  },
+  "cantidadDisponible": 12,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609772c"
+  },
+  "codigoStock": 38,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976ea"
+  },
+  "cantidadDisponible": 1,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609772d"
+  },
+  "codigoStock": 39,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976eb"
+  },
+  "cantidadDisponible": 1,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609772e"
+  },
+  "codigoStock": 40,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976ed"
+  },
+  "cantidadDisponible": 4,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609772f"
+  },
+  "codigoStock": 41,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976ee"
+  },
+  "cantidadDisponible": 5,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097730"
+  },
+  "codigoStock": 42,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976ef"
+  },
+  "cantidadDisponible": 6,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097731"
+  },
+  "codigoStock": 43,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f0"
+  },
+  "cantidadDisponible": 2,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097732"
+  },
+  "codigoStock": 44,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f1"
+  },
+  "cantidadDisponible": 8,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097733"
+  },
+  "codigoStock": 45,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f2"
+  },
+  "cantidadDisponible": 5,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097734"
+  },
+  "codigoStock": 46,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f3"
+  },
+  "cantidadDisponible": 4,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097735"
+  },
+  "codigoStock": 47,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f4"
+  },
+  "cantidadDisponible": 7,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097736"
+  },
+  "codigoStock": 48,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f5"
+  },
+  "cantidadDisponible": 9,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097737"
+  },
+  "codigoStock": 49,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f6"
+  },
+  "cantidadDisponible": 8,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097738"
+  },
+  "codigoStock": 50,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f8"
+  },
+  "cantidadDisponible": 6,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097739"
+  },
+  "codigoStock": 51,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976f9"
+  },
+  "cantidadDisponible": 13,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609773a"
+  },
+  "codigoStock": 52,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976fa"
+  },
+  "cantidadDisponible": 7,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609773b"
+  },
+  "codigoStock": 53,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976fb"
+  },
+  "cantidadDisponible": 10,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609773c"
+  },
+  "codigoStock": 54,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976fc"
+  },
+  "cantidadDisponible": 12,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609773d"
+  },
+  "codigoStock": 55,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976fd"
+  },
+  "cantidadDisponible": 14,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609773e"
+  },
+  "codigoStock": 56,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976fe"
+  },
+  "cantidadDisponible": 6,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e609773f"
+  },
+  "codigoStock": 57,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e60976ff"
+  },
+  "cantidadDisponible": 9,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097740"
+  },
+  "codigoStock": 58,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e6097700"
+  },
+  "cantidadDisponible": 13,
+  "estadoStock": 1
+},
+{
+  "_id": {
+    "$oid": "682bdd3e82d45eb1e6097741"
+  },
+  "codigoStock": 59,
+  "idProductoFK": {
+    "$oid": "682bdaea82d45eb1e6097701"
+  },
+  "cantidadDisponible": 6,
+  "estadoStock": 1
+}]
