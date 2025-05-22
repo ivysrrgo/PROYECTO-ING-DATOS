@@ -26,7 +26,7 @@ create table Cliente(
 );
 
 create table Producto(
-	codigoProducto varchar(20) primary key,
+    codigoProducto varchar(20) primary key,
     nombreProducto varchar(50) not null,
     precioProducto double not null, /*precio del producto por unidad*/
     descripcionProducto text null,
@@ -45,7 +45,7 @@ create table Stock(
 
 create table facturaVenta(
     codigoFactura int auto_increment primary key,
-	docUsuarioFK int not null,
+    docUsuarioFK int not null,
     docClienteFK int not null,
     totalFactura double not null,
     iva double not null,
@@ -64,7 +64,7 @@ create table facturaVenta(
 );
 
 create table DetallesFactura(
-	idDetalle int auto_increment primary key,
+    idDetalle int auto_increment primary key,
     codigoFacturaFK int not null,
     codigoStockFK int not null,
     cantidadProd int not null,
@@ -130,6 +130,8 @@ insert into Usuario values
 (21176321, 'Eduardo', 'Sánchez Molina', 'carlos.sanchez@gmail.com', true, 3223456789, 'Calle 11 #34-12, Bogotá', 'Empleado', 'carloseduardosanchez'),
 (21147890, 'Marta Beatriz', 'Martínez Romero', 'marta.martinez@gmail.com', true, 3234567890, 'Carrera 8 #56-78, Bogotá', 'Empleado', 'martabeatriz');
 
+alter table usuario add column  password varchar(25);
+update Usuario set password = concat(nickname, cast(docUsuario as char));
 
 /*Insertar Clientes*/
 insert into Cliente values
