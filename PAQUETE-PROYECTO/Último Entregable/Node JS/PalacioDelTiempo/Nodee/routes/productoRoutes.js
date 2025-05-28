@@ -14,6 +14,34 @@ const storage = multer.diskStorage({
 
 const upload = multer({ storage: storage });
 
+
+// Consultar productos por rango de precio
+
+router.get('/productos/precio', async (req, res) => {
+  try {
+    const { min, max } = req.query;
+
+    const validNumber = (value) => /^\d+(\.\d+)?$/.test(value);
+
+    if ((min && !validNumber(min)) || (max && !validNumber(max))) {
+      return res.status(400).json({ error: 'Parámetros de precio inválidos' });
+    }
+
+    const precioMin = min ? parseFloat(min) : 0;
+    const precioMax = max ? parseFloat(max) : Number.MAX_SAFE_INTEGER;
+
+    const productos = await Producto.find({
+      precioProducto: { $gte: precioMin, $lte: precioMax }
+    });
+
+    res.status(200).json(productos);
+  } catch (error) {
+    console.error('Error al consultar productos por precio:', error);
+    res.status(500).json({ error: 'Error al consultar productos por precio' });
+  }
+});
+
+
 // Ruta para añadir un nuevo producto
 router.post('/add-producto', upload.single('imagen'), async (req, res) => {
     try {

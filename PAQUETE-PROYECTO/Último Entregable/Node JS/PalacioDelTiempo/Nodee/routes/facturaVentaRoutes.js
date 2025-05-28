@@ -14,6 +14,63 @@ router.post('/', async (req, res) => {
   }
 });
 
+// Ruta para actualizar estadoPago de una factura
+router.put('/facturas/actualizar-estado-pago/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { estadoPago } = req.body;
+
+    if (!estadoPago) {
+      return res.status(400).json({ error: 'Debe enviar el nuevo estado de pago' });
+    }
+
+    const factura = await facturaVenta.findByIdAndUpdate(
+      id,
+      { estadoPago: estadoPago }
+    );
+
+    if (factura) {
+      res.status(200).json({ message: 'Estado de pago actualizado correctamente' });
+    } else {
+      res.status(404).json({ message: 'Factura no encontrada' });
+    }
+  } catch (error) {
+    console.error('Error al actualizar estado de pago:', error);
+    res.status(500).json({ error: 'Error al actualizar estado de pago' });
+  }
+});
+
+// Consultar facturas por estado de pago
+router.get('/facturas/estado-pago/:estado', async (req, res) => {
+  try {
+    const { estado } = req.params;
+
+    const facturas = await facturaVenta.find({ estadoPago: estado });
+
+    if (facturas.length === 0) {
+      return res.status(404).json({ message: 'No se encontraron facturas con ese estado de pago' });
+    }
+
+    res.status(200).json(facturas);
+  } catch (error) {
+    console.error('Error al consultar facturas por estado de pago:', error);
+    res.status(500).json({ error: 'Error al consultar facturas por estado de pago' });
+  }
+});
+
+
+// Consultar todas las facturas ordenadas por totalFactura descendente
+router.get('/facturas/orden-total-desc', async (req, res) => {
+  try {
+    const facturas = await facturaVenta.find().sort({ totalFactura: -1 });
+    res.status(200).json(facturas);
+  } catch (error) {
+    console.error('Error al obtener facturas ordenadas:', error);
+    res.status(500).json({ error: 'Error al obtener facturas ordenadas' });
+  }
+});
+
+
 // Subtotal desde productos.productoFK.precio
 router.get('/:id/subtotal', async (req, res) => {
   try {
@@ -67,4 +124,63 @@ router.get('/:id/total', async (req, res) => {
   }
 });
 
+// Ruta para actualizar información de una factura por su ID
+router.put('/factura/actualizar/:id', async (req, res) => {
+    try {
+        const { id } = req.params;
+        const updates = req.body; 
+        const factura = await facturaVenta.findByIdAndUpdate(
+            id,
+            updates
+        );
+        if (factura) {
+            res.status(200).json({ message: 'Factura actualizada exitosamente' });
+        } else {
+            res.status(404).json({ message: 'Factura no encontrada' });
+        }
+    } catch (error) {
+        console.error('Error al actualizar factura:', error);
+        res.status(500).json({ error: 'Error al actualizar factura' });
+    }
+});
+
+// Ruta para consultar los productos enviados en una venta
+router.get('/factura/productos/:id', async (req, res) => {
+    try {
+        const { id } = req.params;
+        const factura = await facturaVenta.findById(id)
+            .populate('productos.codigoStock'); // Trae la info del Stock referenciado
+
+        if (factura) {
+            res.status(200).json({
+                productos: factura.productos
+            });
+        } else {
+            res.status(404).json({ message: 'Factura no encontrada' });
+        }
+    } catch (error) {
+        console.error('Error al consultar productos de la factura:', error);
+        res.status(500).json({ error: 'Error al consultar productos de la factura' });
+    }
+});
+
+
+// Ruta para inactivar una factura por su ID
+router.put('/factura/inactivar/:id', async (req, res) => {
+    try {
+        const { id } = req.params;
+        const factura = await facturaVenta.findByIdAndUpdate(
+            id,
+            { estadoFactura: false }
+        );
+        if (factura) {
+            res.status(200).json({ message: 'Factura inactivada exitosamente' });
+        } else {
+            res.status(404).json({ message: 'Factura no encontrada' });
+        }
+    } catch (error) {
+        console.error('Error al inactivar factura:', error);
+        res.status(500).json({ error: 'Error al inactivar factura' });
+    }
+});
 module.exports = router;

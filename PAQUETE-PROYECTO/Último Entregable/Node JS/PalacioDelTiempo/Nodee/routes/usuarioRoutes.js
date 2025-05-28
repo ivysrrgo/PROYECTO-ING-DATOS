@@ -106,6 +106,67 @@ router.post('/register', async (req, res) => {
   }
 });
 
+  // Consultar usuario por documento
+router.get('/usuarios/documento/:docUsuario', async (req, res) => {
+  try {
+    const { docUsuario } = req.params;
+    const usuario = await Usuario.findOne({ docUsuario });
+
+    if (!usuario) {
+      return res.status(404).json({ message: 'Usuario no encontrado' });
+    }
+
+    res.status(200).json(usuario);
+  } catch (error) {
+    console.error('Error al consultar usuario por documento:', error);
+    res.status(500).json({ error: 'Error al consultar usuario por documento' });
+  }
+});
+
+// Ruta para consultar clientes con más productos comprados
+router.get('/clientes/mas-productos-comprados', async (req, res) => {
+  try {
+    const resultado = await FacturaVenta.aggregate([
+      {
+        $unwind: "$productos" // Desglosar array productos
+      },
+      {
+        $group: {
+          _id: "$docClienteFK",
+          totalProductosComprados: { $sum: "$productos.cantidadProd" }
+        }
+      },
+      {
+        $sort: { totalProductosComprados: -1 } // Orden descendente
+      },
+      {
+        $lookup: { // Obtener datos del cliente desde la colección Cliente
+          from: "clientes", // nombre de la colección en MongoDB (asegúrate que coincide)
+          localField: "_id",
+          foreignField: "_id",
+          as: "clienteInfo"
+        }
+      },
+      {
+        $unwind: "$clienteInfo" // Aplanar el array resultado del lookup
+      },
+      {
+        $project: {
+          _id: 0,
+          clienteId: "$_id",
+          nombreCliente: "$clienteInfo.nombreCliente",
+          totalProductosComprados: 1
+        }
+      }
+    ]);
+
+    res.status(200).json(resultado);
+  } catch (error) {
+    console.error("Error al consultar clientes con más productos comprados:", error);
+    res.status(500).json({ error: "Error al consultar clientes con más productos comprados" });
+  }
+});
+
 
   // Login
   router.post('/login', async (req, res) => {

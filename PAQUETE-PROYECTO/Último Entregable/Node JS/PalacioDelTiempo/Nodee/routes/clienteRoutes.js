@@ -16,6 +16,45 @@ router.post('/clientes/insertarClientes', async (req, res) => {
     }
 });
 
+// Consultar clientes por nombre (búsqueda parcial, insensible a mayúsculas)
+router.get('/clientes/nombre/:nombre', async (req, res) => {
+    try {
+        const { nombre } = req.params;
+
+        const clientes = await Cliente.find({
+            nombreCliente: { $regex: nombre, $options: 'i' } // 'i' = No importan las mayusulas
+        });
+
+        if (clientes.length === 0) {
+            return res.status(404).json({ message: 'No se encontraron clientes con ese nombre' });
+        }
+
+        res.status(200).json(clientes);
+    } catch (error) {
+        console.error('Error al consultar clientes por nombre:', error);
+        res.status(500).json({ error: 'Error al consultar clientes por nombre' });
+    }
+});
+
+
+// Consultar cliente por número de documento
+router.get('/clientes/documento/:docCliente', async (req, res) => {
+    try {
+        const { docCliente } = req.params;
+        const cliente = await Cliente.findOne({ docCliente: docCliente });
+
+        if (!cliente) {
+            return res.status(404).json({ message: 'Cliente no encontrado' });
+        }
+
+        res.status(200).json(cliente);
+    } catch (error) {
+        console.error('Error al consultar cliente por documento:', error);
+        res.status(500).json({ error: 'Error al consultar cliente por documento' });
+    }
+});
+
+
 // Obtener todos los clientes
 router.get('/clientes', async (req, res) => {
     try {
@@ -52,5 +91,26 @@ router.put('/clientes/:id', async (req, res) => {
     res.status(500).json({ error: 'Error al actualizar cliente' });
   }
 });
+
+// Ruta para inactivar un cliente por ID
+router.put('/clientes/inactivar/:id', async (req, res) => {
+  try {
+    const { id } = req.params;
+    const cliente = await Cliente.findByIdAndUpdate(
+      id,
+      { estado: false }
+    );
+
+    if (cliente) {
+      res.status(200).json({ message: 'Cliente inactivado exitosamente' });
+    } else {
+      res.status(404).json({ message: 'Cliente no encontrado' });
+    }
+  } catch (error) {
+    console.error('Error al inactivar cliente:', error);
+    res.status(500).json({ error: 'Error al inactivar cliente' });
+  }
+});
+
 
 module.exports = router;
