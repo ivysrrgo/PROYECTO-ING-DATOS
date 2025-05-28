@@ -2,7 +2,7 @@
 db.Stock.updateOne({codigoStock:5},{$set:{estadoStock:0}})
 
 //Generar Factura (RQF006)
-db.facturaVenta.insertOne({codigoFactura: 2, totalFactura: 50000,  iva: 10000, fEntrega: new Date("2025-12-15"),  fReparto: new Date("2025-12-16"), estadoPago: "Pendiente",  medioPago: "Tarjeta", direccionEnv: "Calle 101 #10-12", precioEnv: 5000,  descripcionFact: "Factura por productos de oficina",estadoFactura: 1,  idClienteFK: ObjectId("682bd9f282d45eb1e6097698"), idUsuarioFK: ObjectId("682bd80582d45eb1e609770a"), cantidad: 2 }]});
+db.facturaVenta.insertOne({codigoFactura: 2, totalFactura: 50000,  iva: 10000, fEntrega: new Date("2025-12-15"),  fReparto: new Date("2025-12-16"), estadoPago: "Pendiente",  medioPago: "Tarjeta", direccionEnv: "Calle 101 #10-12", precioEnv: 5000,  descripcionFact: "Factura por productos de oficina",estadoFactura: 1,  idClienteFK: ObjectId("682bd9f282d45eb1e6097698"), idUsuarioFK: ObjectId("682bd80582d45eb1e609770a"), cantidad: 2 });
 
 //Hacer Visualización de las Facturas
 db.facturaVenta.aggregate([
