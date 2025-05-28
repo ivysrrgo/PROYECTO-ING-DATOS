@@ -1,0 +1,2208 @@
+[{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609778a"
+  },
+  "codigoFactura": 1,
+  "totalFactura": 272150.16,
+  "iva": 51708.53,
+  "fEntrega": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-02T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Tranferencia",
+  "direccionEnv": "Calle 89 #55-11",
+  "precioEnv": 5000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976c8"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097691"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097708"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097707"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770a"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609778b"
+  },
+  "codigoFactura": 2,
+  "totalFactura": 2101114.32,
+  "iva": 399211.72,
+  "fEntrega": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-07T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Efectivo",
+  "direccionEnv": "Calle 60 #32-21",
+  "precioEnv": 7000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e6097696"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097686"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097707"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097709"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770b"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609778c"
+  },
+  "codigoFactura": 3,
+  "totalFactura": 276003.76,
+  "iva": 52440.71,
+  "fEntrega": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "estadoPago": "Cancelado",
+  "medioPago": "Nequi",
+  "direccionEnv": "Avenida 15 #72-10",
+  "precioEnv": 4500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e6097697"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097677"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097708"
+      },
+      "cantidad": 3
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770a"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770c"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609778d"
+  },
+  "codigoFactura": 4,
+  "totalFactura": 1447900,
+  "iva": 275101,
+  "fEntrega": {
+    "$date": "2025-11-25T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-11-27T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Carrera 42 #89-12",
+  "precioEnv": 6000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e6097698"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097684"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097709"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770a"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770b"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609778e"
+  },
+  "codigoFactura": 5,
+  "totalFactura": 1718835.84,
+  "iva": 326578.81,
+  "fEntrega": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Daviplata",
+  "direccionEnv": "Calle 98 #44-56",
+  "precioEnv": 8000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e6097699"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097688"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097708"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097709"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770a"
+      },
+      "cantidad": 3
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770b"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609778f"
+  },
+  "codigoFactura": 6,
+  "totalFactura": 488039.4,
+  "iva": 92727.49,
+  "fEntrega": {
+    "$date": "2025-12-15T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-17T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Tarjeta",
+  "direccionEnv": "Calle 89 #12-45",
+  "precioEnv": 9000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e609769a"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097674"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097707"
+      },
+      "cantidad": 3
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097708"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770a"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097790"
+  },
+  "codigoFactura": 7,
+  "totalFactura": 4140000,
+  "iva": 786600,
+  "fEntrega": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Nequi",
+  "direccionEnv": "Carrera 21 #34-56",
+  "precioEnv": 5500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e609769b"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097675"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770b"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770f"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097714"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097791"
+  },
+  "codigoFactura": 8,
+  "totalFactura": 566000,
+  "iva": 107540,
+  "fEntrega": {
+    "$date": "2025-12-20T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-22T00:00:00.000Z"
+  },
+  "estadoPago": "Cancelado",
+  "medioPago": "Efectivo",
+  "direccionEnv": "Avenida 33 #24-10",
+  "precioEnv": 7000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e609769c"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609767f"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770d"
+      },
+      "cantidad": 3
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097713"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097792"
+  },
+  "codigoFactura": 9,
+  "totalFactura": 2130000,
+  "iva": 404700,
+  "fEntrega": {
+    "$date": "2025-12-04T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-06T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Calle 77 #11-22",
+  "precioEnv": 12000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e609769d"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609767d"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097712"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097718"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097793"
+  },
+  "codigoFactura": 10,
+  "totalFactura": 89900,
+  "iva": 17081,
+  "fEntrega": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Daviplata",
+  "direccionEnv": "Carrera 15 #44-22",
+  "precioEnv": 3000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e609769e"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097687"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770c"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771c"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097794"
+  },
+  "codigoFactura": 11,
+  "totalFactura": 4440000,
+  "iva": 843600,
+  "fEntrega": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Tarjeta",
+  "direccionEnv": "Avenida 90 #21-14",
+  "precioEnv": 11000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e609769f"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609767e"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097710"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097715"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771f"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097795"
+  },
+  "codigoFactura": 12,
+  "totalFactura": 599700,
+  "iva": 113943,
+  "fEntrega": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "estadoPago": "Cancelado",
+  "medioPago": "Nequi",
+  "direccionEnv": "Calle 10 #45-76",
+  "precioEnv": 9500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a0"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609767a"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770a"
+      },
+      "cantidad": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097796"
+  },
+  "codigoFactura": 13,
+  "totalFactura": 770000,
+  "iva": 146300,
+  "fEntrega": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Avenida 55 #65-21",
+  "precioEnv": 8000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a1"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097682"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770e"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097719"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097797"
+  },
+  "codigoFactura": 14,
+  "totalFactura": 939000,
+  "iva": 178410,
+  "fEntrega": {
+    "$date": "2025-11-25T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-11-27T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Efectivo",
+  "direccionEnv": "Carrera 12 #12-21",
+  "precioEnv": 6500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a2"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097690"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097709"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771a"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771d"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097798"
+  },
+  "codigoFactura": 15,
+  "totalFactura": 902114.32,
+  "iva": 171401.72,
+  "fEntrega": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-07T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Daviplata",
+  "direccionEnv": "Calle 66 #33-23",
+  "precioEnv": 7500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a3"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097679"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097707"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097711"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e6097799"
+  },
+  "codigoFactura": 16,
+  "totalFactura": 62135.84,
+  "iva": 11805.81,
+  "fEntrega": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-14T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Nequi",
+  "direccionEnv": "Avenida 90 #12-56",
+  "precioEnv": 8500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a4"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097673"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097708"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097720"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609779a"
+  },
+  "codigoFactura": 17,
+  "totalFactura": 2470000,
+  "iva": 469300,
+  "fEntrega": {
+    "$date": "2025-12-06T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-08T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Calle 34 #55-13",
+  "precioEnv": 4000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a5"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609768f"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097716"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770b"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609779b"
+  },
+  "codigoFactura": 18,
+  "totalFactura": 1798000,
+  "iva": 341620,
+  "fEntrega": {
+    "$date": "2025-12-15T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-17T00:00:00.000Z"
+  },
+  "estadoPago": "Cancelado",
+  "medioPago": "Tarjeta",
+  "direccionEnv": "Avenida 55 #78-23",
+  "precioEnv": 4500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a6"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097680"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097717"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609779c"
+  },
+  "codigoFactura": 19,
+  "totalFactura": 537000,
+  "iva": 102030,
+  "fEntrega": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Nequi",
+  "direccionEnv": "Calle 85 #98-67",
+  "precioEnv": 5000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a7"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097681"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771b"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770d"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097713"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609779d"
+  },
+  "codigoFactura": 20,
+  "totalFactura": 2681800,
+  "iva": 509542,
+  "fEntrega": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-02T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Efectivo",
+  "direccionEnv": "Carrera 44 #12-34",
+  "precioEnv": 5500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a8"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609766f"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770c"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097714"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097722"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609779e"
+  },
+  "codigoFactura": 21,
+  "totalFactura": 3350000,
+  "iva": 636500,
+  "fEntrega": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Avenida 33 #12-55",
+  "precioEnv": 15000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976a9"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609767c"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770b"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097712"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097718"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e609779f"
+  },
+  "codigoFactura": 22,
+  "totalFactura": 96000,
+  "iva": 18240,
+  "fEntrega": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Tarjeta",
+  "direccionEnv": "Calle 72 #34-45",
+  "precioEnv": 13000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976aa"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609768d"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770d"
+      },
+      "cantidad": 3
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770e"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a0"
+  },
+  "codigoFactura": 23,
+  "totalFactura": 1190000,
+  "iva": 226100,
+  "fEntrega": {
+    "$date": "2025-12-07T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-09T00:00:00.000Z"
+  },
+  "estadoPago": "Cancelado",
+  "medioPago": "Daviplata",
+  "direccionEnv": "Carrera 18 #43-22",
+  "precioEnv": 4000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976ab"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097683"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770e"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097716"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a1"
+  },
+  "codigoFactura": 24,
+  "totalFactura": 1415000,
+  "iva": 268850,
+  "fEntrega": {
+    "$date": "2025-11-27T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Nequi",
+  "direccionEnv": "Calle 11 #54-65",
+  "precioEnv": 6200,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976ac"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097685"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770f"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771a"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771b"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a2"
+  },
+  "codigoFactura": 25,
+  "totalFactura": 940000,
+  "iva": 178600,
+  "fEntrega": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-14T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Avenida 66 #45-34",
+  "precioEnv": 5300,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976ad"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097689"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097713"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a3"
+  },
+  "codigoFactura": 26,
+  "totalFactura": 4910000,
+  "iva": 932900,
+  "fEntrega": {
+    "$date": "2025-12-08T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Efectivo",
+  "direccionEnv": "Calle 99 #56-12",
+  "precioEnv": 7500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976ae"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609767b"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097710"
+      },
+      "cantidad": 3
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097714"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771f"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a4"
+  },
+  "codigoFactura": 27,
+  "totalFactura": 830067.92,
+  "iva": 157712.9,
+  "fEntrega": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-02T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Tarjeta",
+  "direccionEnv": "Avenida 22 #77-23",
+  "precioEnv": 4700,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976af"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609768b"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097708"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a5"
+  },
+  "codigoFactura": 28,
+  "totalFactura": 1791800,
+  "iva": 340442,
+  "fEntrega": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Nequi",
+  "direccionEnv": "Calle 11 #44-12",
+  "precioEnv": 6200,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b0"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609768c"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770c"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097711"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a6"
+  },
+  "codigoFactura": 29,
+  "totalFactura": 252014.32,
+  "iva": 47882.72,
+  "fEntrega": {
+    "$date": "2025-12-14T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-16T00:00:00.000Z"
+  },
+  "estadoPago": "Cancelado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Avenida 45 #11-22",
+  "precioEnv": 4300,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b1"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609768e"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097707"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770a"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a7"
+  },
+  "codigoFactura": 30,
+  "totalFactura": 2479000,
+  "iva": 471010,
+  "fEntrega": {
+    "$date": "2025-12-06T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-08T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Daviplata",
+  "direccionEnv": "Carrera 21 #34-56",
+  "precioEnv": 5400,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b2"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097670"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097717"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097719"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771d"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a8"
+  },
+  "codigoFactura": 31,
+  "totalFactura": 996000,
+  "iva": 189240,
+  "fEntrega": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-14T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Efectivo",
+  "direccionEnv": "Calle 21 #45-33",
+  "precioEnv": 6500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b3"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097671"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097709"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097714"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097721"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977a9"
+  },
+  "codigoFactura": 32,
+  "totalFactura": 2850000,
+  "iva": 541500,
+  "fEntrega": {
+    "$date": "2025-11-28T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Nequi",
+  "direccionEnv": "Calle 22 #11-12",
+  "precioEnv": 5900,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b4"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097692"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770b"
+      },
+      "cantidad": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977aa"
+  },
+  "codigoFactura": 33,
+  "totalFactura": 1850000,
+  "iva": 351500,
+  "fEntrega": {
+    "$date": "2025-12-09T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-11T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Avenida 55 #44-33",
+  "precioEnv": 5200,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b5"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609766e"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097712"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097723"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097725"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977ab"
+  },
+  "codigoFactura": 34,
+  "totalFactura": 1136000,
+  "iva": 215840,
+  "fEntrega": {
+    "$date": "2025-12-04T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-06T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Tarjeta",
+  "direccionEnv": "Calle 44 #12-10",
+  "precioEnv": 4500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b6"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097678"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770d"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097718"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771c"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097727"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977ac"
+  },
+  "codigoFactura": 35,
+  "totalFactura": 20135.84,
+  "iva": 3825.81,
+  "fEntrega": {
+    "$date": "2025-12-11T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-13T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Efectivo",
+  "direccionEnv": "Carrera 66 #55-88",
+  "precioEnv": 6800,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b7"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609768a"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097708"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977ad"
+  },
+  "codigoFactura": 36,
+  "totalFactura": 1717700,
+  "iva": 326363,
+  "fEntrega": {
+    "$date": "2025-11-27T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-11-29T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Nequi",
+  "direccionEnv": "Calle 78 #34-12",
+  "precioEnv": 5600,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b8"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097672"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770c"
+      },
+      "cantidad": 3
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097710"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977ae"
+  },
+  "codigoFactura": 37,
+  "totalFactura": 501057.16,
+  "iva": 95200.86,
+  "fEntrega": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "estadoPago": "Cancelado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Carrera 12 #99-34",
+  "precioEnv": 7200,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976b9"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097676"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097707"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771e"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097729"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977af"
+  },
+  "codigoFactura": 38,
+  "totalFactura": 2870000,
+  "iva": 545300,
+  "fEntrega": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-02T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Daviplata",
+  "direccionEnv": "Calle 32 #45-21",
+  "precioEnv": 5100,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976ba"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097664"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097713"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770f"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b0"
+  },
+  "codigoFactura": 39,
+  "totalFactura": 621800,
+  "iva": 118142,
+  "fEntrega": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-07T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Tarjeta",
+  "direccionEnv": "Avenida 23 #54-76",
+  "precioEnv": 6200,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976bb"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609766a"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770a"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771a"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097720"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b1"
+  },
+  "codigoFactura": 40,
+  "totalFactura": 17290000,
+  "iva": 3285100,
+  "fEntrega": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-14T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Nequi",
+  "direccionEnv": "Calle 90 #11-45",
+  "precioEnv": 4700,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976bc"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097667"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097715"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097716"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097722"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609772d"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b2"
+  },
+  "codigoFactura": 41,
+  "totalFactura": 1529000,
+  "iva": 290510,
+  "fEntrega": {
+    "$date": "2025-11-28T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Carrera 65 #43-12",
+  "precioEnv": 5400,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976bd"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097669"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770e"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097717"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097727"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b3"
+  },
+  "codigoFactura": 42,
+  "totalFactura": 2980000,
+  "iva": 566200,
+  "fEntrega": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Daviplata",
+  "direccionEnv": "Calle 12 #55-67",
+  "precioEnv": 6000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976be"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609765e"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097711"
+      },
+      "cantidad": 3
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771d"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b4"
+  },
+  "codigoFactura": 43,
+  "totalFactura": 4491800,
+  "iva": 853442,
+  "fEntrega": {
+    "$date": "2025-12-14T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-16T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Tarjeta",
+  "direccionEnv": "Calle 30 #12-99",
+  "precioEnv": 5300,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976bf"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097665"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770c"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097722"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097724"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b5"
+  },
+  "codigoFactura": 44,
+  "totalFactura": 5790000,
+  "iva": 1100100,
+  "fEntrega": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Calle 44 #99-55",
+  "precioEnv": 5200,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976c0"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097673"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097719"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771f"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609772f"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b6"
+  },
+  "codigoFactura": 45,
+  "totalFactura": 2359900,
+  "iva": 448381,
+  "fEntrega": {
+    "$date": "2025-12-06T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-08T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Efectivo",
+  "direccionEnv": "Avenida 23 #12-89",
+  "precioEnv": 4300,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976c1"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097690"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770a"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097712"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609772a"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b7"
+  },
+  "codigoFactura": 46,
+  "totalFactura": 3220000,
+  "iva": 611800,
+  "fEntrega": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "estadoPago": "Cancelado",
+  "medioPago": "Daviplata",
+  "direccionEnv": "Carrera 15 #21-78",
+  "precioEnv": 4800,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976c2"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097679"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770f"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771a"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097732"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b8"
+  },
+  "codigoFactura": 47,
+  "totalFactura": 51460000,
+  "iva": 9777400,
+  "fEntrega": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-14T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Tarjeta",
+  "direccionEnv": "Calle 56 #33-44",
+  "precioEnv": 7200,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976c3"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097671"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097710"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771e"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609772c"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097737"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977b9"
+  },
+  "codigoFactura": 48,
+  "totalFactura": 1218000,
+  "iva": 231420,
+  "fEntrega": {
+    "$date": "2025-11-28T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-11-30T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Nequi",
+  "direccionEnv": "Calle 33 #44-12",
+  "precioEnv": 5000,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976c4"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097692"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097714"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097721"
+      },
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977ba"
+  },
+  "codigoFactura": 49,
+  "totalFactura": 1344000,
+  "iva": 255360,
+  "fEntrega": {
+    "$date": "2025-12-09T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-11T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Transferencia",
+  "direccionEnv": "Avenida 66 #54-21",
+  "precioEnv": 6500,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976c5"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e609766e"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770b"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609771c"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097725"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977bb"
+  },
+  "codigoFactura": 50,
+  "totalFactura": 1255000,
+  "iva": 238450,
+  "fEntrega": {
+    "$date": "2025-12-01T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-03T00:00:00.000Z"
+  },
+  "estadoPago": "Completado",
+  "medioPago": "Efectivo",
+  "direccionEnv": "Calle 45 #77-99",
+  "precioEnv": 5300,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976c6"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097678"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097716"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097729"
+      },
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "682bfe7382d45eb1e60977bc"
+  },
+  "codigoFactura": 51,
+  "totalFactura": 2724114.32,
+  "iva": 517581.72,
+  "fEntrega": {
+    "$date": "2025-12-10T00:00:00.000Z"
+  },
+  "fReparto": {
+    "$date": "2025-12-12T00:00:00.000Z"
+  },
+  "estadoPago": "Pendiente",
+  "medioPago": "Daviplata",
+  "direccionEnv": "Avenida 80 #55-33",
+  "precioEnv": 6100,
+  "descripcionFact": "Sin detalles adicionales",
+  "estadoFactura": 1,
+  "idClienteFK": {
+    "$oid": "682bd9f282d45eb1e60976c7"
+  },
+  "idUsuarioFK": {
+    "$oid": "682bd80582d45eb1e6097689"
+  },
+  "productos": [
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097707"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e609770d"
+      },
+      "cantidad": 1
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097718"
+      },
+      "cantidad": 2
+    },
+    {
+      "idStock": {
+        "$oid": "682bdd3e82d45eb1e6097731"
+      },
+      "cantidad": 1
+    }
+  ]
+}]

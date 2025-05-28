@@ -1,0 +1,899 @@
+[{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609765e"
+  },
+  "docUsuario": 5214590,
+  "nombreUsuario": "Fernando Andrés",
+  "apellidoUsuario": "Martínez García",
+  "correoUsuario": "fernando.martinez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3134567890"
+  },
+  "direccionUsuario": "Calle 32 #54-76, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "fernandoandres",
+  "password": "fernandoandres5214590"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609765f"
+  },
+  "docUsuario": 21123678,
+  "nombreUsuario": "Laura Fernanda",
+  "apellidoUsuario": "Pérez Gómez",
+  "correoUsuario": "laura.perez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3198765432"
+  },
+  "direccionUsuario": "Calle 10 #5-13, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "laurafernanda",
+  "password": "laurafernanda21123678"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097660"
+  },
+  "docUsuario": 21134789,
+  "nombreUsuario": "Diana Carolina",
+  "apellidoUsuario": "Vega Lozano",
+  "correoUsuario": "diana.vega@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3212345678"
+  },
+  "direccionUsuario": "Avenida 15 #67-89, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "dianacarolina",
+  "password": "dianacarolina21134789"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097661"
+  },
+  "docUsuario": 21147890,
+  "nombreUsuario": "Marta Beatriz",
+  "apellidoUsuario": "Martínez Romero",
+  "correoUsuario": "marta.martinez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3234567890"
+  },
+  "direccionUsuario": "Carrera 8 #56-78, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "martabeatriz",
+  "password": "martabeatriz21147890"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097662"
+  },
+  "docUsuario": 21176321,
+  "nombreUsuario": "Eduardo",
+  "apellidoUsuario": "Sánchez Molina",
+  "correoUsuario": "carlos.sanchez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3223456789"
+  },
+  "direccionUsuario": "Calle 11 #34-12, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "carloseduardosanchez",
+  "password": "carloseduardosanchez21176321"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097663"
+  },
+  "docUsuario": 21187432,
+  "nombreUsuario": "Mauricio Andrés",
+  "apellidoUsuario": "Gutiérrez Ríos",
+  "correoUsuario": "mauricio.gutierrez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3201234567"
+  },
+  "direccionUsuario": "Carrera 24 #45-67, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "mauricioandres",
+  "password": "mauricioandres21187432"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097664"
+  },
+  "docUsuario": 52123456,
+  "nombreUsuario": "Carlos Alberto",
+  "apellidoUsuario": "Ramírez Pérez",
+  "correoUsuario": "carlos.ramirez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3102345678"
+  },
+  "direccionUsuario": "Carrera 12 #45-67, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "carlosalbertoram",
+  "password": "carlosalbertoram52123456"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097665"
+  },
+  "docUsuario": 52123987,
+  "nombreUsuario": "Isabel",
+  "apellidoUsuario": "Suárez Díaz",
+  "correoUsuario": "ana.suarez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3145678901"
+  },
+  "direccionUsuario": "Carrera 9 #13-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "anaisabel",
+  "password": "anaisabel52123987"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097666"
+  },
+  "docUsuario": 52125679,
+  "nombreUsuario": "Sofía Margarita",
+  "apellidoUsuario": "Torres Sánchez",
+  "correoUsuario": "sofia.torres@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3189012345"
+  },
+  "direccionUsuario": "Calle 23 #65-89, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "sofiamargarita",
+  "password": "sofiamargarita52125679"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097667"
+  },
+  "docUsuario": 52134589,
+  "nombreUsuario": "Juan Pablo",
+  "apellidoUsuario": "Rodríguez Sánchez",
+  "correoUsuario": "juan.rodriguez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3112345678"
+  },
+  "direccionUsuario": "Calle 45 #67-89, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "juanpablo",
+  "password": "juanpablo52134589"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097668"
+  },
+  "docUsuario": 52143210,
+  "nombreUsuario": "Patricia Elena",
+  "apellidoUsuario": "Sánchez Díaz",
+  "correoUsuario": "patricia.sanchez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3167890123"
+  },
+  "direccionUsuario": "Calle 56 #78-89, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "patriciaelena",
+  "password": "patriciaelena52143210"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097669"
+  },
+  "docUsuario": 52176321,
+  "nombreUsuario": "María Fernanda",
+  "apellidoUsuario": "Hernández López",
+  "correoUsuario": "maria.hernandez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3123456789"
+  },
+  "direccionUsuario": "Carrera 7 #12-34, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "mariafernanda",
+  "password": "mariafernanda52176321"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609766a"
+  },
+  "docUsuario": 52187632,
+  "nombreUsuario": "Lucía María",
+  "apellidoUsuario": "Gómez Martínez",
+  "correoUsuario": "lucia.gomez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3109876543"
+  },
+  "direccionUsuario": "Avenida 5 #23-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "luciamaria",
+  "password": "luciamaria52187632"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609766b"
+  },
+  "docUsuario": 52189034,
+  "nombreUsuario": "Carlos Eduardo",
+  "apellidoUsuario": "Mora García",
+  "correoUsuario": "carlos.mora@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3178901234"
+  },
+  "direccionUsuario": "Carrera 60 #32-56, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "carloseduardomora",
+  "password": "carloseduardomora52189034"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609766c"
+  },
+  "docUsuario": 52765432,
+  "nombreUsuario": "Ricardo David",
+  "apellidoUsuario": "Jiménez Ríos",
+  "correoUsuario": "ricardo.jimenez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3156789012"
+  },
+  "direccionUsuario": "Avenida 30 #19-21, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "ricardodavid",
+  "password": "ricardodavid52765432"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609766d"
+  },
+  "docUsuario": 100123456,
+  "nombreUsuario": "Sara Beatriz",
+  "apellidoUsuario": "Villar Ortega",
+  "correoUsuario": "sara.villar@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3010901234"
+  },
+  "direccionUsuario": "Carrera 33 #23-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "sarabeatriz",
+  "password": "sarabeatriz100123456"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609766e"
+  },
+  "docUsuario": 100123457,
+  "nombreUsuario": "Luis Eduardo",
+  "apellidoUsuario": "Sánchez Gómez",
+  "correoUsuario": "luis.sanchez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3009876543"
+  },
+  "direccionUsuario": "Calle 67 #23-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "luiseduardo",
+  "password": "luiseduardo100123457"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609766f"
+  },
+  "docUsuario": 101234587,
+  "nombreUsuario": "Fernando Javier",
+  "apellidoUsuario": "Mora Sánchez",
+  "correoUsuario": "fernando.mora@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3010234567"
+  },
+  "direccionUsuario": "Calle 80 #12-34, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "fernandojavier",
+  "password": "fernandojavier101234587"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097670"
+  },
+  "docUsuario": 102234589,
+  "nombreUsuario": "Javier Antonio",
+  "apellidoUsuario": "Rodríguez López",
+  "correoUsuario": "javier.rodriguez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3012345678"
+  },
+  "direccionUsuario": "Calle 34 #56-78, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "javierantonio",
+  "password": "javierantonio102234589"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097671"
+  },
+  "docUsuario": 104234588,
+  "nombreUsuario": "Silvia Alejandra",
+  "apellidoUsuario": "Martínez Ruiz",
+  "correoUsuario": "silvia.martinez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3008765432"
+  },
+  "direccionUsuario": "Carrera 77 #45-67, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "silviaalejandra",
+  "password": "silviaalejandra104234588"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097672"
+  },
+  "docUsuario": 104234589,
+  "nombreUsuario": "José Alberto",
+  "apellidoUsuario": "Castro Torres",
+  "correoUsuario": "jose.castro@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3008765432"
+  },
+  "direccionUsuario": "Calle 56 #34-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "josealberto",
+  "password": "josealberto104234589"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097673"
+  },
+  "docUsuario": 104234590,
+  "nombreUsuario": "Beatriz Elena",
+  "apellidoUsuario": "Serrano Ríos",
+  "correoUsuario": "beatriz.serrano@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3010567890"
+  },
+  "direccionUsuario": "Calle 60 #34-56, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "beatrizelena",
+  "password": "beatrizelena104234590"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097674"
+  },
+  "docUsuario": 105234591,
+  "nombreUsuario": "Ricardo Andrés",
+  "apellidoUsuario": "González López",
+  "correoUsuario": "ricardo.gonzalez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3010678901"
+  },
+  "direccionUsuario": "Carrera 50 #12-34, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "ricardoandres",
+  "password": "ricardoandres105234591"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097675"
+  },
+  "docUsuario": 107234593,
+  "nombreUsuario": "Oscar Antonio",
+  "apellidoUsuario": "Gómez Fernández",
+  "correoUsuario": "oscar.gomez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3010890123"
+  },
+  "direccionUsuario": "Calle 40 #45-67, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "oscarantonio",
+  "password": "oscarantonio107234593"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097676"
+  },
+  "docUsuario": 107234594,
+  "nombreUsuario": "Vera Patricia",
+  "apellidoUsuario": "Álvarez Guzmán",
+  "correoUsuario": "vera.alvarez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3008765432"
+  },
+  "direccionUsuario": "Calle 28 #45-56, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "verapatricia",
+  "password": "verapatricia107234594"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097677"
+  },
+  "docUsuario": 109234595,
+  "nombreUsuario": "Martín Felipe",
+  "apellidoUsuario": "Hernández Ruiz",
+  "correoUsuario": "martin.hernandez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3011012345"
+  },
+  "direccionUsuario": "Avenida 12 #56-78, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "martinfelipe",
+  "password": "martinfelipe109234595"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097678"
+  },
+  "docUsuario": 109234596,
+  "nombreUsuario": "Daniela María",
+  "apellidoUsuario": "Rojas Sánchez",
+  "correoUsuario": "daniela.rojas@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3013456789"
+  },
+  "direccionUsuario": "Calle 12 #45-67, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "danielamaria",
+  "password": "danielamaria109234596"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097679"
+  },
+  "docUsuario": 110234596,
+  "nombreUsuario": "Esteban Alejandro",
+  "apellidoUsuario": "Cordero Paredes",
+  "correoUsuario": "esteban.cordero@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3011123456"
+  },
+  "direccionUsuario": "Calle 23 #12-34, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "estebanalex",
+  "password": "estebanalex110234596"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609767a"
+  },
+  "docUsuario": 111234597,
+  "nombreUsuario": "Mónica Alejandra",
+  "apellidoUsuario": "Campos Díaz",
+  "correoUsuario": "monica.campos@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3011234567"
+  },
+  "direccionUsuario": "Carrera 12 #34-56, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "monicaalejandra",
+  "password": "monicaalejandra111234597"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609767b"
+  },
+  "docUsuario": 112234598,
+  "nombreUsuario": "Carlos Alberto",
+  "apellidoUsuario": "Martínez Pérez",
+  "correoUsuario": "carlos.martinez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3012345678"
+  },
+  "direccionUsuario": "Calle 22 #11-23, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "carlosalbertomar",
+  "password": "carlosalbertomar112234598"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609767c"
+  },
+  "docUsuario": 113234599,
+  "nombreUsuario": "Lucía Fernanda",
+  "apellidoUsuario": "Ramírez Ríos",
+  "correoUsuario": "lucia.ramirez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3011456789"
+  },
+  "direccionUsuario": "Carrera 67 #23-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "luciafernanda",
+  "password": "luciafernanda113234599"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609767d"
+  },
+  "docUsuario": 114234600,
+  "nombreUsuario": "Ramón Eduardo",
+  "apellidoUsuario": "Díaz Rodríguez",
+  "correoUsuario": "ramon.diaz@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3011567890"
+  },
+  "direccionUsuario": "Calle 21 #45-67, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "ramoneduardo",
+  "password": "ramoneduardo114234600"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609767e"
+  },
+  "docUsuario": 116234602,
+  "nombreUsuario": "Raúl Ernesto",
+  "apellidoUsuario": "Rojas Herrera",
+  "correoUsuario": "raul.rojas@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3011789012"
+  },
+  "direccionUsuario": "Calle 98 #45-67, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "raulernesto",
+  "password": "raulernesto116234602"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609767f"
+  },
+  "docUsuario": 119234605,
+  "nombreUsuario": "Rosa Margarita",
+  "apellidoUsuario": "Romero Silva",
+  "correoUsuario": "rosa.romero@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3012012345"
+  },
+  "direccionUsuario": "Calle 56 #78-90, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "rosamargarita",
+  "password": "rosamargarita119234605"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097680"
+  },
+  "docUsuario": 761234567,
+  "nombreUsuario": "Juan Carlos",
+  "apellidoUsuario": "Pérez Gómez",
+  "correoUsuario": "juancarlos.perez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3001234567"
+  },
+  "direccionUsuario": "Calle 123 #45-67, Bogotá",
+  "tipoUsuario": "Administrador",
+  "nickname": "juancarlos",
+  "password": "juancarlos761234567"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097681"
+  },
+  "docUsuario": 821234570,
+  "nombreUsuario": "Ana María",
+  "apellidoUsuario": "Rodríguez Pérez",
+  "correoUsuario": "anamaria.rodriguez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3004567890"
+  },
+  "direccionUsuario": "Avenida 68 #23-45, Bogotá",
+  "tipoUsuario": "Administrador",
+  "nickname": "anamaria",
+  "password": "anamaria821234570"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097682"
+  },
+  "docUsuario": 861234573,
+  "nombreUsuario": "José Luis",
+  "apellidoUsuario": "López Herrera",
+  "correoUsuario": "joseluis.lopez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3007890123"
+  },
+  "direccionUsuario": "Carrera 20 #13-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "joseluis",
+  "password": "joseluis861234573"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097683"
+  },
+  "docUsuario": 871234574,
+  "nombreUsuario": "Raquel María",
+  "apellidoUsuario": "Moreno Díaz",
+  "correoUsuario": "raquel.moreno@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3008901234"
+  },
+  "direccionUsuario": "Calle 10 #21-43, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "raquelmaria",
+  "password": "raquelmaria871234574"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097684"
+  },
+  "docUsuario": 881234575,
+  "nombreUsuario": "Pedro Pablo",
+  "apellidoUsuario": "Vázquez Ruiz",
+  "correoUsuario": "pedropablo.vazquez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3009012345"
+  },
+  "direccionUsuario": "Carrera 45 #67-89, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "pedropablo",
+  "password": "pedropablo881234575"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097685"
+  },
+  "docUsuario": 901234577,
+  "nombreUsuario": "Carlos Enrique",
+  "apellidoUsuario": "Ramírez Rodríguez",
+  "correoUsuario": "carlos.ramirez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3009234567"
+  },
+  "direccionUsuario": "Calle 55 #12-34, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "carlosenrique",
+  "password": "carlosenrique901234577"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097686"
+  },
+  "docUsuario": 901234585,
+  "nombreUsuario": "Antonio José",
+  "apellidoUsuario": "González Díaz",
+  "correoUsuario": "antonio.gonzalez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3010012345"
+  },
+  "direccionUsuario": "Carrera 35 #23-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "antoniojose",
+  "password": "antoniojose901234585"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097687"
+  },
+  "docUsuario": 921234579,
+  "nombreUsuario": "José Antonio",
+  "apellidoUsuario": "García Martínez",
+  "correoUsuario": "jose.antonio.garcia@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3009456789"
+  },
+  "direccionUsuario": "Avenida 60 #23-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "joseantonio",
+  "password": "joseantonio921234579"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097688"
+  },
+  "docUsuario": 931234580,
+  "nombreUsuario": "Miguel Ángel",
+  "apellidoUsuario": "Díaz Gómez",
+  "correoUsuario": "miguel.diaz@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3009567890"
+  },
+  "direccionUsuario": "Calle 70 #56-78, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "miguelangel",
+  "password": "miguelangel931234580"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097689"
+  },
+  "docUsuario": 931234581,
+  "nombreUsuario": "Laura Isabel",
+  "apellidoUsuario": "Gómez Sánchez",
+  "correoUsuario": "laura.gomez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3009876543"
+  },
+  "direccionUsuario": "Carrera 10 #20-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "lauraisabel",
+  "password": "lauraisabel931234581"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609768a"
+  },
+  "docUsuario": 931234582,
+  "nombreUsuario": "Evelyn Carolina",
+  "apellidoUsuario": "Moreno Gómez",
+  "correoUsuario": "evelyn.moreno@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3012346789"
+  },
+  "direccionUsuario": "Carrera 56 #89-23, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "evelyncarolina",
+  "password": "evelyncarolina931234582"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609768b"
+  },
+  "docUsuario": 932234580,
+  "nombreUsuario": "Estefanía Paola",
+  "apellidoUsuario": "Ramírez Ríos",
+  "correoUsuario": "estefania.ramirez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3012348765"
+  },
+  "direccionUsuario": "Carrera 45 #65-23, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "estefaniapaola",
+  "password": "estefaniapaola932234580"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609768c"
+  },
+  "docUsuario": 932234586,
+  "nombreUsuario": "Francisco Javier",
+  "apellidoUsuario": "Torres López",
+  "correoUsuario": "francisco.torres@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3007654321"
+  },
+  "direccionUsuario": "Calle 14 #12-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "franciscojavier",
+  "password": "franciscojavier932234586"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609768d"
+  },
+  "docUsuario": 951234582,
+  "nombreUsuario": "Santiago José",
+  "apellidoUsuario": "Torres Rodríguez",
+  "correoUsuario": "santiago.torres@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3009789012"
+  },
+  "direccionUsuario": "Calle 30 #78-90, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "santiagojose",
+  "password": "santiagojose951234582"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609768e"
+  },
+  "docUsuario": 951234585,
+  "nombreUsuario": "Gabriela Patricia",
+  "apellidoUsuario": "González Pérez",
+  "correoUsuario": "gabriela.gonzalez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3002345678"
+  },
+  "direccionUsuario": "Carrera 9 #23-56, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "gabrielapatricia",
+  "password": "gabrielapatricia951234585"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e609768f"
+  },
+  "docUsuario": 971234583,
+  "nombreUsuario": "María Dolores",
+  "apellidoUsuario": "Hernández Gómez",
+  "correoUsuario": "maria.dolores.hernandez@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3009890123"
+  },
+  "direccionUsuario": "Calle 90 #34-56, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "mariadolores",
+  "password": "mariadolores971234583"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097690"
+  },
+  "docUsuario": 971234584,
+  "nombreUsuario": "Ricardo Javier",
+  "apellidoUsuario": "Álvarez Pérez",
+  "correoUsuario": "ricardo.alvarez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3009901234"
+  },
+  "direccionUsuario": "Avenida 40 #56-78, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "ricardojavier",
+  "password": "ricardojavier971234584"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097691"
+  },
+  "docUsuario": 981234585,
+  "nombreUsuario": "Clara Lucía",
+  "apellidoUsuario": "Morales González",
+  "correoUsuario": "clara.morales@hotmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": 30103456,
+  "direccionUsuario": "Carrera 70 #45-67, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "claralucia",
+  "password": "claralucia981234585"
+},
+{
+  "_id": {
+    "$oid": "682bd80582d45eb1e6097692"
+  },
+  "docUsuario": 981234586,
+  "nombreUsuario": "Manuel Ernesto",
+  "apellidoUsuario": "Hernández Paredes",
+  "correoUsuario": "manuel.hernandez@gmail.com",
+  "estadoUsuario": true,
+  "telefonoUsuario": {
+    "$numberLong": "3007654321"
+  },
+  "direccionUsuario": "Calle 24 #34-45, Bogotá",
+  "tipoUsuario": "Empleado",
+  "nickname": "manuelernesto",
+  "password": "manuelernesto981234586"
+}]

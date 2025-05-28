@@ -1,0 +1,649 @@
+[{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976cb"
+  },
+  "codigoProducto": "P1",
+  "nombreProducto": "THOM GAFAS DE SOL迪特眼镜",
+  "precioProducto": 26057.16,
+  "descripcionProducto": "Gafas de sol",
+  "cantidadProducto": 50,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976cc"
+  },
+  "codigoProducto": "P10",
+  "nombreProducto": "RELOJ ORIENT CLASSIC",
+  "precioProducto": 790000,
+  "descripcionProducto": "Reloj automático elegante para hombre",
+  "cantidadProducto": 25,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976cd"
+  },
+  "codigoProducto": "P11",
+  "nombreProducto": "RELOJ DIESEL DZ4323",
+  "precioProducto": 850000,
+  "descripcionProducto": "Reloj cronógrafo para hombre",
+  "cantidadProducto": 30,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976ce"
+  },
+  "codigoProducto": "P12",
+  "nombreProducto": "RELOJ FOSSIL CH2565",
+  "precioProducto": 680000,
+  "descripcionProducto": "Reloj deportivo de cuero",
+  "cantidadProducto": 45,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976cf"
+  },
+  "codigoProducto": "P13",
+  "nombreProducto": "RELOJ SKAGEN ANITA",
+  "precioProducto": 470000,
+  "descripcionProducto": "Reloj minimalista para mujer",
+  "cantidadProducto": 60,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d0"
+  },
+  "codigoProducto": "P14",
+  "nombreProducto": "RELOJ MVMT CLASSIC",
+  "precioProducto": 520000,
+  "descripcionProducto": "Reloj moderno con diseño limpio",
+  "cantidadProducto": 40,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d1"
+  },
+  "codigoProducto": "P15",
+  "nombreProducto": "RELOJ TOMMY HILFIGER",
+  "precioProducto": 650000,
+  "descripcionProducto": "Reloj con cronógrafo y correa de acero",
+  "cantidadProducto": 35,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d2"
+  },
+  "codigoProducto": "P16",
+  "nombreProducto": "RELOJ GUESS GW0030L2",
+  "precioProducto": 570000,
+  "descripcionProducto": "Reloj de moda para mujer",
+  "cantidadProducto": 38,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d3"
+  },
+  "codigoProducto": "P17",
+  "nombreProducto": "RELOJ HUGO BOSS",
+  "precioProducto": 899000,
+  "descripcionProducto": "Reloj elegante para eventos formales",
+  "cantidadProducto": 27,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d4"
+  },
+  "codigoProducto": "P18",
+  "nombreProducto": "RELOJ ARMANI EXCHANGE",
+  "precioProducto": 770000,
+  "descripcionProducto": "Reloj juvenil y urbano",
+  "cantidadProducto": 32,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d5"
+  },
+  "codigoProducto": "P19",
+  "nombreProducto": "RELOJ MICHAEL KORS",
+  "precioProducto": 720000,
+  "descripcionProducto": "Reloj de lujo para mujer",
+  "cantidadProducto": 20,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d6"
+  },
+  "codigoProducto": "P2",
+  "nombreProducto": "BOLSAS RAYBAN",
+  "precioProducto": 10067.92,
+  "descripcionProducto": "estuche",
+  "cantidadProducto": 40,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d7"
+  },
+  "codigoProducto": "P20",
+  "nombreProducto": "GAFAS POLARIZADAS RAYBAN",
+  "precioProducto": 180000,
+  "descripcionProducto": "Protección UV y estilo",
+  "cantidadProducto": 55,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d8"
+  },
+  "codigoProducto": "P21",
+  "nombreProducto": "ESTUCHE DUAL WATCH",
+  "precioProducto": 35000,
+  "descripcionProducto": "Estuche para guardar dos relojes",
+  "cantidadProducto": 65,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976d9"
+  },
+  "codigoProducto": "P22",
+  "nombreProducto": "KIT LIMPIEZA RELOJES",
+  "precioProducto": 22000,
+  "descripcionProducto": "Herramientas y paño de limpieza",
+  "cantidadProducto": 90,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976da"
+  },
+  "codigoProducto": "P23",
+  "nombreProducto": "RELOJ SMARTWATCH AMAZFIT",
+  "precioProducto": 430000,
+  "descripcionProducto": "Reloj inteligente con monitor de actividad",
+  "cantidadProducto": 42,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976db"
+  },
+  "codigoProducto": "P24",
+  "nombreProducto": "RELOJ XIAOMI MI BAND 6",
+  "precioProducto": 180000,
+  "descripcionProducto": "Pulsera inteligente con pantalla AMOLED",
+  "cantidadProducto": 88,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976dc"
+  },
+  "codigoProducto": "P25",
+  "nombreProducto": "RELOJ APPLE WATCH SE",
+  "precioProducto": 1500000,
+  "descripcionProducto": "Smartwatch con GPS y sensor cardíaco",
+  "cantidadProducto": 22,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976dd"
+  },
+  "codigoProducto": "P26",
+  "nombreProducto": "CORREA DE MALLA METÁLICA",
+  "precioProducto": 42000,
+  "descripcionProducto": "Correa de acero inoxidable tipo milanesa",
+  "cantidadProducto": 70,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976de"
+  },
+  "codigoProducto": "P27",
+  "nombreProducto": "CAJA RELOJES MADERA NOGAL",
+  "precioProducto": 89000,
+  "descripcionProducto": "Caja elegante para 6 relojes",
+  "cantidadProducto": 33,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976df"
+  },
+  "codigoProducto": "P28",
+  "nombreProducto": "RELOJ BULOVA MOONWATCH",
+  "precioProducto": 1550000,
+  "descripcionProducto": "Edición especial cronógrafo lunar",
+  "cantidadProducto": 12,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e0"
+  },
+  "codigoProducto": "P29",
+  "nombreProducto": "RELOJ INVICTA PRO DIVER",
+  "precioProducto": 410000,
+  "descripcionProducto": "Reloj de buceo resistente al agua",
+  "cantidadProducto": 28,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e1"
+  },
+  "codigoProducto": "P3",
+  "nombreProducto": "RELOJ CASIO MTP-V002",
+  "precioProducto": 149000,
+  "descripcionProducto": "Reloj análogo para hombre, resistente al agua",
+  "cantidadProducto": 60,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e2"
+  },
+  "codigoProducto": "P30",
+  "nombreProducto": "RELOJ LUMINOX NAVY SEAL",
+  "precioProducto": 1300000,
+  "descripcionProducto": "Reloj táctico militar",
+  "cantidadProducto": 10,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e3"
+  },
+  "codigoProducto": "P31",
+  "nombreProducto": "RELOJ VOSTOK AMPHIBIA",
+  "precioProducto": 350000,
+  "descripcionProducto": "Reloj automático ruso de buceo",
+  "cantidadProducto": 18,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e4"
+  },
+  "codigoProducto": "P32",
+  "nombreProducto": "RELOJ TISSOT PRX",
+  "precioProducto": 1190000,
+  "descripcionProducto": "Diseño clásico con movimiento suizo",
+  "cantidadProducto": 24,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e5"
+  },
+  "codigoProducto": "P33",
+  "nombreProducto": "RELOJ SWATCH ORIGINAL",
+  "precioProducto": 290000,
+  "descripcionProducto": "Reloj colorido con diseño pop",
+  "cantidadProducto": 37,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e6"
+  },
+  "codigoProducto": "P34",
+  "nombreProducto": "RELOJ CASIO G-SHOCK",
+  "precioProducto": 670000,
+  "descripcionProducto": "Reloj resistente a golpes y agua",
+  "cantidadProducto": 48,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e7"
+  },
+  "codigoProducto": "P35",
+  "nombreProducto": "RELOJ CASIO VINTAGE",
+  "precioProducto": 115000,
+  "descripcionProducto": "Reloj digital retro",
+  "cantidadProducto": 61,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e8"
+  },
+  "codigoProducto": "P36",
+  "nombreProducto": "RELOJ CALVIN KLEIN",
+  "precioProducto": 740000,
+  "descripcionProducto": "Diseño minimalista para mujer",
+  "cantidadProducto": 23,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976e9"
+  },
+  "codigoProducto": "P37",
+  "nombreProducto": "RELOJ DANIEL WELLINGTON",
+  "precioProducto": 490000,
+  "descripcionProducto": "Reloj clásico con correa de tela",
+  "cantidadProducto": 52,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976ea"
+  },
+  "codigoProducto": "P38",
+  "nombreProducto": "RELOJ ROLEX SUBMARINER",
+  "precioProducto": 50000000,
+  "descripcionProducto": "Reloj de lujo para coleccionistas",
+  "cantidadProducto": 5,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976eb"
+  },
+  "codigoProducto": "P39",
+  "nombreProducto": "RELOJ TAG HEUER CARRERA",
+  "precioProducto": 12400000,
+  "descripcionProducto": "Cronógrafo suizo de alta gama",
+  "cantidadProducto": 7,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976ec"
+  },
+  "codigoProducto": "P4",
+  "nombreProducto": "RELOJ TIMEX WEEKENDER",
+  "precioProducto": 199900,
+  "descripcionProducto": "Reloj casual con correa intercambiable",
+  "cantidadProducto": 30,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976ed"
+  },
+  "codigoProducto": "P40",
+  "nombreProducto": "RELOJ HAMILTON KHAKI FIELD",
+  "precioProducto": 860000,
+  "descripcionProducto": "Reloj militar con diseño clásico",
+  "cantidadProducto": 19,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976ee"
+  },
+  "codigoProducto": "P41",
+  "nombreProducto": "RELOJ GARMIN FORERUNNER",
+  "precioProducto": 1350000,
+  "descripcionProducto": "Smartwatch para deportistas",
+  "cantidadProducto": 26,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976ef"
+  },
+  "codigoProducto": "P42",
+  "nombreProducto": "RELOJ POLAR VANTAGE M",
+  "precioProducto": 999000,
+  "descripcionProducto": "Reloj deportivo con GPS integrado",
+  "cantidadProducto": 29,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f0"
+  },
+  "codigoProducto": "P43",
+  "nombreProducto": "RELOJ SUUNTO CORE",
+  "precioProducto": 1100000,
+  "descripcionProducto": "Reloj outdoor con altímetro y barómetro",
+  "cantidadProducto": 14,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f1"
+  },
+  "codigoProducto": "P44",
+  "nombreProducto": "RELOJ LORUS SPORTS",
+  "precioProducto": 320000,
+  "descripcionProducto": "Reloj resistente para uso diario",
+  "cantidadProducto": 36,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f2"
+  },
+  "codigoProducto": "P45",
+  "nombreProducto": "RELOJ FESTINA CHRONO",
+  "precioProducto": 540000,
+  "descripcionProducto": "Reloj de cronómetro elegante",
+  "cantidadProducto": 31,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f3"
+  },
+  "codigoProducto": "P46",
+  "nombreProducto": "RELOJ LOTUS URBAN CLASSIC",
+  "precioProducto": 360000,
+  "descripcionProducto": "Diseño moderno y sofisticado",
+  "cantidadProducto": 17,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f4"
+  },
+  "codigoProducto": "P47",
+  "nombreProducto": "RELOJ PUMA PU102871002",
+  "precioProducto": 275000,
+  "descripcionProducto": "Reloj deportivo con correa de caucho",
+  "cantidadProducto": 43,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f5"
+  },
+  "codigoProducto": "P48",
+  "nombreProducto": "RELOJ BEN SHERMAN",
+  "precioProducto": 190000,
+  "descripcionProducto": "Diseño clásico con correa textil",
+  "cantidadProducto": 49,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f6"
+  },
+  "codigoProducto": "P49",
+  "nombreProducto": "RELOJ ZADIG & VOLTAIRE",
+  "precioProducto": 310000,
+  "descripcionProducto": "Diseño moderno para mujer",
+  "cantidadProducto": 39,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f7"
+  },
+  "codigoProducto": "P5",
+  "nombreProducto": "RELOJ SEIKO 5 SPORTS",
+  "precioProducto": 950000,
+  "descripcionProducto": "Reloj automático con correa de acero",
+  "cantidadProducto": 20,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f8"
+  },
+  "codigoProducto": "P50",
+  "nombreProducto": "RELOJ EMPORIO ARMANI",
+  "precioProducto": 950000,
+  "descripcionProducto": "Elegante y refinado para ocasiones especiales",
+  "cantidadProducto": 21,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976f9"
+  },
+  "codigoProducto": "P51",
+  "nombreProducto": "CORREA NATO ROJA",
+  "precioProducto": 28000,
+  "descripcionProducto": "Correa de tela resistente para relojes deportivos",
+  "cantidadProducto": 77,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976fa"
+  },
+  "codigoProducto": "P52",
+  "nombreProducto": "RELOJ CASIO EDIFICE",
+  "precioProducto": 620000,
+  "descripcionProducto": "Reloj elegante con cronómetro y correa metálica",
+  "cantidadProducto": 41,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976fb"
+  },
+  "codigoProducto": "P53",
+  "nombreProducto": "ESTUCHE PREMIUM MADERA",
+  "precioProducto": 97000,
+  "descripcionProducto": "Estuche para colección de relojes con vidrio frontal",
+  "cantidadProducto": 66,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976fc"
+  },
+  "codigoProducto": "P54",
+  "nombreProducto": "KIT HERRAMIENTAS RELOJERO",
+  "precioProducto": 56000,
+  "descripcionProducto": "Incluye destornilladores, pinzas y herramientas para ajuste",
+  "cantidadProducto": 92,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976fd"
+  },
+  "codigoProducto": "P55",
+  "nombreProducto": "GAFAS AVIADOR CLÁSICAS",
+  "precioProducto": 138000,
+  "descripcionProducto": "Gafas con montura metálica estilo aviador",
+  "cantidadProducto": 53,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976fe"
+  },
+  "codigoProducto": "P56",
+  "nombreProducto": "RELOJ DIESEL RASP",
+  "precioProducto": 790000,
+  "descripcionProducto": "Diseño moderno y robusto para uso diario",
+  "cantidadProducto": 34,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e60976ff"
+  },
+  "codigoProducto": "P57",
+  "nombreProducto": "CAJA RELOJES VIAJE",
+  "precioProducto": 45000,
+  "descripcionProducto": "Estuche acolchado portátil para viajes",
+  "cantidadProducto": 67,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e6097700"
+  },
+  "codigoProducto": "P58",
+  "nombreProducto": "CORREA PIEL MARRÓN",
+  "precioProducto": 35000,
+  "descripcionProducto": "Correa de piel natural con hebilla clásica",
+  "cantidadProducto": 87,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e6097701"
+  },
+  "codigoProducto": "P59",
+  "nombreProducto": "RELOJ SKAGEN HAGEN",
+  "precioProducto": 410000,
+  "descripcionProducto": "Diseño delgado y minimalista con correa de malla",
+  "cantidadProducto": 58,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e6097702"
+  },
+  "codigoProducto": "P6",
+  "nombreProducto": "CAJA RELOJ LUJO",
+  "precioProducto": 45900,
+  "descripcionProducto": "Caja de presentación para reloj, acolchada",
+  "cantidadProducto": 80,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e6097703"
+  },
+  "codigoProducto": "P7",
+  "nombreProducto": "CORREA CUERO NEGRO",
+  "precioProducto": 32000,
+  "descripcionProducto": "Correa ajustable de cuero genuino",
+  "cantidadProducto": 100,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e6097704"
+  },
+  "codigoProducto": "P8",
+  "nombreProducto": "CORREA SILICONA AZUL",
+  "precioProducto": 25000,
+  "descripcionProducto": "Correa deportiva para reloj",
+  "cantidadProducto": 95,
+  "estadoProducto": true
+},
+{
+  "_id": {
+    "$oid": "682bdaea82d45eb1e6097705"
+  },
+  "codigoProducto": "P9",
+  "nombreProducto": "RELOJ CITIZEN ECO-DRIVE",
+  "precioProducto": 1200000,
+  "descripcionProducto": "Reloj solar sin necesidad de batería",
+  "cantidadProducto": 15,
+  "estadoProducto": true
+}]
