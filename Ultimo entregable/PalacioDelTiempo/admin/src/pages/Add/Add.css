@@ -1,0 +1,155 @@
+.add {
+    max-width: 700px;  /* Más ancho */
+    width: 90%;
+    margin: 60px auto;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    transition: all 0.4s ease;
+}
+
+.add:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 16px 50px rgba(0, 0, 0, 0.3);
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 25px;
+}
+
+.add-img-upload p,
+.add-product-name p,
+.add-product-description p,
+.add-category p,
+.add-price p {
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 15px;
+    color: #444;
+}
+
+.add-img-upload label {
+    width: 100%;
+    height: 250px;
+    border: 2px dashed rgba(0, 123, 255, 0.4);
+    border-radius: 16px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease;
+    background-color: #f9f9f9;
+}
+
+.add-img-upload label:hover {
+    border-color: #007bff;
+    background-color: rgba(0, 123, 255, 0.05);
+}
+
+.add-img-upload img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.3s ease;
+    opacity: 0.9;
+}
+
+.add-img-upload img.placeholder {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    opacity: 0.6;
+}
+
+input[type="text"],
+input[type="number"],
+textarea,
+select {
+    width: 100%;  /* Ahora ocupan todo el ancho */
+    padding: 14px 18px;
+    border: none;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.6);
+    box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.1);
+    font-size: 15px;
+    transition: all 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+textarea:focus,
+select:focus {
+    background: rgba(255, 255, 255, 0.8);
+    outline: none;
+    box-shadow: 0 0 0 2px #007bff;
+}
+
+.add-category-price {
+    display: flex;
+    gap: 20px;
+}
+
+.add-category,
+.add-price {
+    flex: 1;
+}
+
+.add-button {
+    width: 100%;  /* Botón ocupa todo el ancho */
+    padding: 16px;
+    background: linear-gradient(135deg, #007bff, #00c6ff);
+    color: #fff;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.add-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 123, 255, 0.4);
+}
+
+.add-button:active {
+    transform: translateY(0);
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.3);
+}
+
+/* --------- RESPONSIVE DESIGN --------- */
+@media (max-width: 600px) {
+    .add {
+        padding: 25px;
+        margin: 40px 15px;
+    }
+
+    .add-category-price {
+        flex-direction: column;
+    }
+
+    .add-button {
+        font-size: 16px;
+        padding: 14px;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    textarea,
+    select {
+        font-size: 14px;
+    }
+
+    .add-img-upload label {
+        height: 200px;
+    }
+}
